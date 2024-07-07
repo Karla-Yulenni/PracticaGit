@@ -84,3 +84,7 @@ se puede representar la informacion de manera de tablas con columnas y filas, pa
 | fila1 celda1 |  fila1 celda2 |  fila1 celda3 |
 --------------------------------------------------------
 | fila2 celda1 |  fila2 celda2 |  fila2 celda3 |
+
+## Imagenes 
+Para ver debemos cargar los archivos en nuestro repositorio y vincularlo.
+![Liga] C:\Users\Karla\Downloads = (https://www.youtube.com/watch?v=mHNCM-YALSA)
