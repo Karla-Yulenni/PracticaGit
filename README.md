@@ -78,11 +78,10 @@ Esta documentacion fue creada por **Karla Yulenni Domínguez Amador** 230284@utx
 ## 8 Tablas (TABLES)
 se puede representar la informacion de manera de tablas con columnas y filas, para las columnas es el caracter |, y para las filas es el caracter -
 **EJEMPLO:**
---------------------------------------------------------
+
 |encabezado1 | encabezado2 |encabezado3 |
---------------------------------------------------------
+|------------|--------------|--------------------|
 | fila1 celda1 |  fila1 celda2 |  fila1 celda3 |
---------------------------------------------------------
 | fila2 celda1 |  fila2 celda2 |  fila2 celda3 |
 
 ## Imagenes 
