@@ -43,25 +43,33 @@ despues demos "enter"
 ## 6 listas ordenadas y no ordenadas 
 si se necesita incluir informacion en modo de lista, es decir elementos tras elementos podemos hacerlo ya sea usando viñetas o numeros definidos.
 para el uso de viñetas es agregar (-) antes del texto:
+
 **EJEMPLO:**
+
 mi tipo favorito de musica es:
 - KPOP
 - bachata
 - musica mexicana
 
   para usar los numeros es con un (.):
+  
   **EJEMPLO:**
+  
   crea un nuevo repositorio en **GitHub**:
+  
   1. crear una cuenta en GitHub
   2. logear mi cuenta
   6. ir a la pagina principal
   7. en el menú lateral buscar **NUEVO REPOSITORIO**
   8. asignar un nombre
   98. definir si es:
-      -**publico:** cualquiera lo ve y lo consulta
-       -**privado:** solo quien tenga autorizacion
+      
+ -**publico:** cualquiera lo ve y lo consulta
+ -**privado:** solo quien tenga autorizacion
+ 
   1. agregar un primer archivo documental *README.MD*
   2. Aprobar su creacion
+     
 ## 7 ligas e hipervinculos (LINKS)
 redirigen archivos, secciones dentro o fuera del repositorio. Se maquetan utilizando corchetes \[\], inmediatamente de parentesis con la url de destino \(\).
 **EJEMPLO:**
